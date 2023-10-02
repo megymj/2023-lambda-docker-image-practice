@@ -1,0 +1,4 @@
+boto3~=1.28.16
+pymongo~=4.4.1
+https://download.pytorch.org/whl/cpu/torch-1.11.0%2Bcpu-cp39-cp39-linux_x86_64.whl
+sentence-transformers~=2.2.2
